@@ -1,16 +1,21 @@
-## Hi there 👋
+## 🌸 Hi, I’m Ma. Alffin Andrade, a BSIT student passionate about Frontend Development and UI/UX Design. ✨
 
-<!--
-**rlxyy/rlxyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Goals ⚡
+  My goal is to become a skilled Frontend Developer, continuously learning modern tools and frameworks to design engaging and responsive websites.
 
-Here are some ideas to get you started:
+## Skills 🌱
+  Beginner in Python, SQL, Flask
+  Frontend foundations: HTML, CSS, JavaScript
+  Exploring React, TailwindCSS, and Sass/SCSS for modern web design
+  
+## I’m looking to collaborate on 👯
+  Frontend development and UI/UX design projects that involve building responsive, user-friendly websites and applications. 
+  Open to working with teams on web-based projects that enhance both design and functionality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Contact 📫
+  Email: alffinandrade@gmail.com
+
+---
+
+                      ⭐ *“Code with creativity, design with purpose.”* 🌷👋
 -->
