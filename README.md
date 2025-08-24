@@ -17,5 +17,5 @@
 
 ---
 
-                                  ⭐ *“Code with creativity, design with purpose.”* 🌷👋
+                                  ⭐ “Code with creativity, design with purpose.” 🌷👋
 -->
