@@ -16,7 +16,7 @@
 
 ## About
 
-AI, full-stack, and mobile developer building production web, mobile, AI, and Web3 apps end to end. I work across Flutter, React/Next.js, Node.js, Firebase, and smart-contract integrations, with a habit of shipping fast while keeping projects modular and maintainable.
+AI, full-stack, and web and mobile developer building production web, mobile, AI, and Web3 apps end to end. I work across Flutter, React/Next.js, Node.js, Firebase, and smart-contract integrations, with a habit of shipping fast while keeping projects modular and maintainable.
 
 ## Stacks
 
